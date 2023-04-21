@@ -8,10 +8,15 @@ My Bachelor's degree in Microelectronics Engineering, which exposed me to all th
 
 ## Skills
 
-## Projects
+- Critical Thinking
+- Server Administration
+- Creative Problem Solving
+- Teaching and Communication
 
 ## Education
 - _Bachelors_ = Microelectronics Engineering
+- _Masters_ = Engineering Management
+- _Post-Baccalaureate_ = Data Science
 
 
 <!--
