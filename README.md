@@ -4,6 +4,19 @@
 
 I'm a data professional with an engineering background and a passion for computer systems. I consider myself more of a generalist, with knowledge across many STEM subjects and an eternal curiosity to learn more. I find computing systems endlessly interesting, and have used various flavors of Linux in order to enhance my understanding of operating systems and command lines. I am an enthusiast of all domains of science, specializing in materials science, electrical engineering, computing systems, chemistry, and optics. I have spent time in many different areas of engineering across the product lifecycle, from modeling and simulation to process engineering and quality control.
 
+## Skills
+
+- Critical Thinking
+- System Administration
+- Creative Problem Solving
+- Teaching, Communication, and Documentation
+- Hotkey Mastery
+
+## Education
+- _Bachelors_ = Microelectronics Engineering, Rochester Institute of Technology
+- _Masters_ = Engineering Management, University of Maryland Baltimore County
+- _Post-Baccalaureate_ = Data Science, University of Maryland Baltimore County
+
 ## Projects
 - **Automated SPC visualizations to drive corrective actions**
   - _Tools used_: Oracle SQL Developer, Microsoft SQL Server, Tableau Desktop, Tableau Server
@@ -25,19 +38,6 @@ I'm a data professional with an engineering background and a passion for compute
   - Analyzed structured data from authoritative source SAP system for trends and categorization of non-conformance records
   - Created procedures for standardizing methods of inputting data into SAP
   - Socialized procedures among engineers, technicians, and assemblers for enhanced detail and structure in non-conformance reporting
-
-## Skills
-
-- Critical Thinking
-- System Administration
-- Creative Problem Solving
-- Teaching, Communication, and Documentation
-- Hotkey Mastery
-
-## Education
-- _Bachelors_ = Microelectronics Engineering, Rochester Institute of Technology
-- _Masters_ = Engineering Management, University of Maryland Baltimore County
-- _Post-Baccalaureate_ = Data Science, University of Maryland Baltimore County
 
 ## Feedback
 - "_Mattias showed very valuable leadership in his contributions to selecting and standing up our manufacturing historian, Canary, and helping lead the way for the company in this area. A variety of skills needed and demonstrated for this effort including detailed evaluation/presentation and design... His intelligence, attentional to detail, willingness to take on large difficult tasks, and ability to follow through and complete tasks all stand out. Mattias has a rare talent for being able to create clear, detailed documentation on complex subject matter. He is a very effective communicator. He has the ability to master complex topics. Mattias is extremely effective from my perspective. He is an excellent, well-rounded teammate that is a real difference-maker on our team. Excellent attention to detail. Excellent verbal and written communication skills. Task driven. Can handle a broad variety of tasks well._" - Michael L., Staff Engineer Software
