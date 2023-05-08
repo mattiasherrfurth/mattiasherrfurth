@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a data professional with an engineering background and a passion for computer systems. I consider myself more of a generalist, with knowledge across many STEM domains and an eternal curiosity to learn more. I am an enthusiast of all domains of science, specializing in materials science, electrical engineering, computing systems, and chemistry. I have spent time in many different areas of engineering across the product lifecycle, from modeling and simulation to process engineering and quality control.
+I'm a data professional with an engineering background and a passion for computer systems. I consider myself more of a generalist, with knowledge across many STEM subjects and an eternal curiosity to learn more. I find computing systems endlessly interesting, and have used various flavors of Linux in order to enhance my understanding of operating systems and command lines. I am an enthusiast of all domains of science, specializing in materials science, electrical engineering, computing systems, chemistry, and optics. I have spent time in many different areas of engineering across the product lifecycle, from modeling and simulation to process engineering and quality control.
 
 ## Projects
 - **Automated SPC visualizations to drive corrective actions**
