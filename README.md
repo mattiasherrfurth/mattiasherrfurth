@@ -2,14 +2,15 @@
 
 ## About Me
 
-I'm a data professional with an engineering background and a passion for computer systems. I have knowledge across many STEM subjects and an eternal curiosity to learn more. I find computing systems endlessly interesting, and have used various flavors of Linux in order to enhance my understanding of operating systems and command lines. I have administrated Windows and Linux servers, as well as SQL and NoSQL databases. I am an enthusiast of all domains of science, specializing in materials science, electrical engineering, computing systems, chemistry, and optics. I have spent time in many different areas of engineering across the product lifecycle, from modeling and simulation to process engineering and quality control.
+I'm a data professional with an engineering background and a passion for computer systems. I have knowledge across many STEM subjects and an eternal curiosity to learn more. I find computing systems endlessly interesting, and have used various flavors of Linux in order to enhance my understanding of operating systems and command lines. I have administrated Windows and Linux servers, SQL and NoSQL databases, and environments in AWS.
 
 ## Skills
 
 - Critical Thinking
+- Project Management
 - System Administration
 - Creative Problem Solving
-- Lifelong Learner
+- Lifelong Learning
 - Teaching, Communication, and Documentation
 
 ## Education
@@ -23,6 +24,13 @@ I'm a data professional with an engineering background and a passion for compute
 - [AWS Certified Cloud Practicioner](https://www.credly.com/badges/0b5b30e4-60d3-42e7-b0b0-0fdc0c89c64c/public_url) - demonstrates proficiency with cloud technology
 - [Certified SAFe&reg; Practicioner](https://www.credly.com/badges/69b5afab-0038-456d-afca-1c1db9276b4b/public_url) - demonstrates proficiency with agile project management
 - [Alteryx Designer Core Certification](https://www.credly.com/badges/66ba136a-1308-4ead-81a5-757c48592840/public_url) - demonstrates proficiency with data analysis workflows
+
+## Passion
+I resonate deeply with [Clarke's three laws](https://en.wikipedia.org/wiki/Clarke's_three_laws), especially the third one: "<em>Any sufficiently advanced technology is indistinguishable from magic.</em>". We live in a world in which we interact with technology more complicated than any one of us could even imagine. I studied microelectronics before I got into software, and from both sides I can see just how many domains of science came together to build these tools. Both the hardware and software are endless rabbit holes of complexity, ones that I find hard to resist. I am passionate about the science, engineering, and overall evolution of computing systems.
+
+Beyond computers, I am an enthusiast of all domains of science; I specialize in materials science, physics, chemistry, and optics. I have been able to apply this knowledge in my career, where I have worked in semiconductor fabrication and microelectronics assembly. I have spent time in various domains of engineering across the product lifecycle, from modeling and simulation to process engineering and quality control.
+
+Aside from my technical interests and craft, I have varied interests in my personal time. I listen to several comedic and informational podcasts, mostly from the [Maximum Fun](https://maximumfun.org/) network. I love puzzles, building models, and yard work / gardening. My fiance and I love TV and movies in the genres of fantasy, drama, and sci-fi (and anime, which isn't exactly a genre, more like a medium unto itself). We also have two adorable cats named Merry and Pippin.
 
 ## Projects
 - **Designed and deployed multi-server system architectures to deliver real-time data analytics**
