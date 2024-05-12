@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a data professional with an engineering background and a passion for computer systems. I have knowledge across many STEM subjects and an eternal curiosity to learn more. I find computing systems endlessly interesting, and have used various flavors of Linux in order to enhance my understanding of operating systems and command lines. I have administrated Windows and Linux servers, SQL and NoSQL databases, and environments in AWS.
+I'm a data professional with an engineering background and a passion for computer systems. I have knowledge across many STEM subjects and an eternal curiosity to learn more. I find computing systems endlessly interesting, and have used various flavors of Linux in order to enhance my understanding of operating systems and command lines. I have administrated Windows and Linux servers, SQL and NoSQL databases, and environments in AWS. I have many years of experience preprocessing and reporting data from enterprise warehouses, multi-domain networks, and serverless deployments in AWS GovCloud.
 
 ## Skills
 
