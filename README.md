@@ -20,9 +20,10 @@ I'm a data professional with an engineering background and a passion for compute
 - **Bachelors of Science in Microelectronics Engineering**, Rochester Institute of Technology
 
 ## Certifications
-- [CompTIA Data+ ce](https://www.credly.com/badges/6252a827-1e7d-40bc-8e93-cd2be35d2826/public_url) - demonstrates proficiency in in data mining, manipulation, statistics, and governance
+- [CompTIA Data+ ce](https://www.credly.com/badges/6252a827-1e7d-40bc-8e93-cd2be35d2826/public_url) - demonstrates proficiency in data mining, manipulation, statistics, and governance
 - [AWS Certified Cloud Practicioner](https://www.credly.com/badges/0b5b30e4-60d3-42e7-b0b0-0fdc0c89c64c/public_url) - demonstrates proficiency with cloud technology
 - [Certified SAFe&reg; Practicioner](https://www.credly.com/badges/69b5afab-0038-456d-afca-1c1db9276b4b/public_url) - demonstrates proficiency with agile project management
+- [Tableau Certified Data Analyst](https://www.credly.com/badges/a3a20ba7-6c56-4311-85ac-1264f5a877ca/public_url) - demonstrates proficiency with data visualization
 - [Alteryx Designer Core Certification](https://www.credly.com/badges/66ba136a-1308-4ead-81a5-757c48592840/public_url) - demonstrates proficiency with data analysis workflows
 
 ## Passion
