@@ -20,6 +20,7 @@ I'm a data professional with an engineering background and a passion for compute
 - **Bachelors of Science in Microelectronics Engineering**, Rochester Institute of Technology
 
 ## Certifications
+- [AWS Certified Solutions Architect (SAA)](https://www.credly.com/badges/9bc90391-f499-4c6a-abc4-7c68005fdf9f/public_url) - demonstrates proficiency with AWS services and technologies.
 - [CompTIA Data+ ce](https://www.credly.com/badges/6252a827-1e7d-40bc-8e93-cd2be35d2826/public_url) - demonstrates proficiency in data mining, manipulation, statistics, and governance
 - [AWS Certified Cloud Practicioner](https://www.credly.com/badges/0b5b30e4-60d3-42e7-b0b0-0fdc0c89c64c/public_url) - demonstrates proficiency with cloud technology
 - [Certified SAFe&reg; Practicioner](https://www.credly.com/badges/69b5afab-0038-456d-afca-1c1db9276b4b/public_url) - demonstrates proficiency with agile project management
