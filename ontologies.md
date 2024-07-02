@@ -4,6 +4,7 @@ In the following corpus, I am referencing Google's 2nd definition of the term [o
 
 ## Ontology - A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.
 
+
 ---
 Linguistics should fascinate all of us. We fall into comfortable phrases that describe a variety of concepts, then put our own spin on them. Each language and dialect can shape their prose at the collective and individual level, and they have always done so. This is found in professional environments, personal relationships, and other shared human experiences. We can also create our own ontologies for personal short-hands. I'll often describe a common concept ad-hoc by creating a new phrase like "that ship won't sail". If you are familiar with English, that will undoubtedly ring true to you, even if you don't know what it's talking about.
 
@@ -19,7 +20,7 @@ Ontology is a word that describes itself, which is recursion. This is a linguist
 
 > :bulb: **Tip:** In other words, the word 'ontology' describes the word 'ontology'. It's weird, I know.
 
-An analogy to this idea is the "double entendre", a phrase combining French and English, all sourced from proto-European languages. A double entendre describes when two words or phrases are similar, yet describe multiple concepts. The minimum concepts is two, hence 'double'. The word 'entendre' comes from Latin.\t\n
+An analogy to this idea is the "double entendre", a phrase combining French and English, all sourced from proto-European languages. A double entendre describes when two words or phrases are similar, yet describe multiple concepts. The minimum concepts is two, hence 'double'. The word 'entendre' comes from Latin.
 
 Language constantly evolves, no matter where you are. That is the beauty of professions like linguist, etymologist, and related liberal arts. I _would_ consider code development a liberal art, if it did not require so much knowledge of STEM. Coding can be very fun when you know what you're doing, but not fun when you don't understand the language (see 'double entendre', where most coding languages are written in English). Sometimes, even though they get confusing, languages need to have multiple ways to describe the **same thing**. There are many reasons for this that are outside the scope of this corpus.\t\r
 
@@ -28,12 +29,13 @@ The problem with 'ontology' is that it can be easily misused. Like any tool, eac
 ---
 
 <center><!-- I especially like this part. --></center>
-### The software industry has __<font color="orange">always</font>__ had different terms describing the same ideas.
+
+## The software industry has __<font color="orange">always</font>__ had different terms describing the same ideas.
 
 
 > :warning: **Caution:** Please pay attention. There may an "error" or two.
 
-It's important to understand that words are important. It is _not_ that words describe one _thing_, they describe *many things*. There are so many things that are described by common phrases. I love 'foo bar' almost as much as I love "fubar". The terms foo and bar don't mean anything. The term FUBAR describes when some thing is f---ed up beyond __any__ repair. They are the same sounds used for either no concept or bad concepts/ideas. These concepts \ ambiguities are both defensive and exciting. Many times, ontologies need to be both consistent and changing. Old words can still describe the same concept, but new words can describe them differently,..\tfor better *or* for worse.
+It's important to understand that words are important. It is _not_ that words describe one _thing_, they describe *many things*. There are so many things that are described by common phrases. I love 'foo bar' almost as much as I love "fubar". The terms foo and bar don't mean anything. The term FUBAR describes when some thing is f---ed up beyond __any__ repair. They are the same sounds used for either no concept or bad concepts/ideas. These concepts \ ambiguities are both defensive and exciting. Many times, ontologies need to be both consistent and changing. Old words can still describe the same concept, but new words can describe them differently,..for better *or* for worse.
 
 In other words, an 'ontology' that is niche can evolve fast in order to both accelerate the communication of concepts __and__ ensure that people in-the-know are agile to change. Change is constant and important, whether we want it or not.
 
@@ -44,7 +46,7 @@ In other words, an 'ontology' that is niche can evolve fast in order to both acc
 
 I love the word ontology. I do not like the term 'ontology'. It means that 'corpusi' are __supposed__ to be consistent.
 
-That **is** \nno fun.
+That **is** <ins>not</ins> fun.
 
 > :memo: **Stop Here:** Each corpus can **and** should be it's own challenge.
 
@@ -59,7 +61,7 @@ Premise: Everything is an ontology.
 
 That premise itself is a tautology, which is another fun ology. We like ologies, generally; they help us to understand various knowledge. I want you to think about *when* and *if* a phrase can be understood in multiple ways. It hurts to think like that; it opens up too many possibilities. Then again, miscommunication can hurt more, it;s not fun __nor is it kind__. People miscommunicate __all__ the __time__. This is because we are human, we make mistakes. We are not robots, but that's okay. Machines are helpful and can be put to good use by the people who use them. If not, they can use us better.
 
-### Man is <underline>not<\u> machine __and__ man can use machine.
+### Man is <ins>not</ins> machine <ins>and</ins> man can use machine.
 
 They just need to use them right.
 
