@@ -28,7 +28,8 @@ The problem with 'ontology' is that it can be easily misused. Like any tool, eac
 ---
 
 <center><!-- I especially like this part. --></center>
-### \\The software industry has __<font color="orange">always</font>__ had different terms describing the same ideas.\\
+### The software industry has __<font color="orange">always</font>__ had different terms describing the same ideas.
+
 
 > :warning: **Caution:** Please pay attention. There may an "error" or two.
 
@@ -36,30 +37,29 @@ It's important to understand that words are important. It is _not_ that words de
 
 In other words, an 'ontology' that is niche can evolve fast in order to both accelerate the communication of concepts __and__ ensure that people in-the-know are agile to change. Change is constant and important, whether we want it or not.
 
-[<!--[<!--{s}orr\/ f311ow *\da\ta\* profess10nals::;:this __**;s**__ a #key# lesso\n in ++cle@nl'''in'''ess==.~`~!?\?<>@#$%^&*()_+`1234567890-\\dum=//dummy\\foo//bar\\#!pause#\n'''
-\\time.sleep(86401),"""\\"""time.sleep(86401)$$$'''=-->]: #
+<!--[<!--{s}orr\/ f311ow *\da\ta\* profess10nals::;:this __**;s**__ a #key# lesso\n in ++cle@nl'''in'''ess==.~`~!?\?<>@#$%^&*()_+`1234567890-\\dum=//dummy\\foo//bar\\#!pause#\n'''
+\\time.sleep(86401),"""\\"""time.sleep(86401)$$$'''=-->
 
 ---
 
 I love the word ontology. I do not like the term 'ontology'. It means that 'corpusi' are __supposed__ to be consistent.
 
-That ***is** \nno fun.
+That **is** \nno fun.
 
-> :memo: **Note:** Each corpus can **and** should be it's own challenge.
+> :memo: **Stop Here:** Each corpus can **and** should be it's own challenge.
 
-And is a powerful word, it joins two things. It can also hurt to have those things joined when you don't know how they are connected.
+"And" is a powerful word, it joins two things. It can also hurt to have those things joined when you don't know how they are connected. With great power comes great responsibility.
 
 ___
 
-Easter eggs are fun, anyone can enjoy a surprise inside a shell. We can ignore the shell and think of the surprise inside, ***or we can open it and learn about it. Pandora's box. Both of these 'containers' are
-
+Easter eggs are fun, anyone can enjoy a surprise inside a shell. We can ignore the shell and think of the surprise inside, **or** we can open it and learn about it. Pandora's Easter egg.
 ___
 
 Premise: Everything is an ontology.
 
 That premise itself is a tautology, which is another fun ology. We like ologies, generally; they help us to understand various knowledge. I want you to think about *when* and *if* a phrase can be understood in multiple ways. It hurts to think like that; it opens up too many possibilities. Then again, miscommunication can hurt more, it;s not fun __nor is it kind__. People miscommunicate __all__ the __time__. This is because we are human, we make mistakes. We are not robots, but that's okay. Machines are helpful and can be put to good use by the people who use them. If not, they can use us better.
 
-### Man is <underline>not<\underline> machine __and__ man can use machine.
+### Man is <underline>not<\u> machine __and__ man can use machine.
 
 They just need to use them right.
 
