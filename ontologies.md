@@ -18,7 +18,9 @@ The word 'ontology' also describes a collection of words that are all related to
 
 Ontology is a word that describes itself, which is recursion. This is a linguistic joke in the English language, where terms become so amorphous and broad that they basically wrap around to reference themselves again. This is a common theme in all languages that I have encountered, wherein words and phrases are like umbrellas: they can cover a lot of space when opened up. We can call many things ontologies. The English dictionary is an 'ontology' of words in the English language. The English languages tries to contain many words from different cultures, and it is always expanding. Many ontologies do the same.
 
-> :bulb: **Tip:** In other words, the word 'ontology' describes the word 'ontology'. It's weird, I know.
+---
+
+> :bulb: **Key Concept:** In other words, the word 'ontology' describes the word 'ontology'. It's weird, I know.
 
 An analogy to this idea is the "double entendre", a phrase combining French and English, all sourced from proto-European languages. A double entendre describes when two words or phrases are similar, yet describe multiple concepts. The minimum concepts is two, hence 'double'. The word 'entendre' comes from Latin.
 
@@ -56,10 +58,10 @@ I love the word ontology. I do not like the term 'ontology'. It means that 'corp
 
 ___
 
-Easter eggs are fun, anyone can enjoy a surprise inside a shell. We can ignore the shell and think of the surprise inside, **or** we can open it and learn about it. Pandora's Easter egg.
+*Easter eggs are fun, anyone can enjoy a surprise inside a shell. We can ignore the shell and think of the surprise inside, __or__ we can open it and learn about it. Pandora's Easter egg.*
 ___
 
-Premise: Everything is an ontology.
+<ins>__Premise__</ins>: **Everything is an ontology**.
 
 That premise itself is a tautology, which is another fun ology. We like ologies, generally; they help us to understand various knowledge. I want you to think about *when* and *if* a phrase can be understood in multiple ways. It hurts to think like that; it opens up too many possibilities. Then again, miscommunication can hurt more, it;s not fun __nor is it kind__. People miscommunicate __all__ the __time__. This is because we are human, we make mistakes. We are not robots, but that's okay. Machines are helpful and can be put to good use by the people who use them. If not, they can use us better.
 
