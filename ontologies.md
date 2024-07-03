@@ -48,7 +48,7 @@ In other words, an 'ontology' that is niche can evolve fast in order to both acc
 
 I love the word ontology. I do not like the term 'ontology'. It means that 'corpusi' are __supposed__ to be consistent.
 
-<center>**That **is** <ins>not</ins> fun**.</center>
+*That __is__ <ins>not</ins> fun*.
 
 ---
 
