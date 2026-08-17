@@ -7,11 +7,11 @@ I'm a data professional with an engineering background and a passion for compute
 ## Skills
 
 - Critical Thinking
-- Project Management
+- Solution Design and Execution
 - System Administration
 - Creative Problem Solving
 - Lifelong Learning
-- Teaching, Communication, and Documentation
+- Knowledge Sharing, Communication, and Documentation
 
 ## Education
 - **Masters of Science in Engineering Management**, University of Maryland Baltimore County
